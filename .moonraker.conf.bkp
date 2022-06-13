@@ -6,7 +6,7 @@ max_upload_size = 1024
 
 [file_manager]
 config_path = ~/klipper_config
-enable_object_processing = False
+enable_object_processing = True
 
 [authorization]
 force_logins = true
