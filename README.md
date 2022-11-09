@@ -41,5 +41,3 @@ Display
 	serial: /dev/serial/by-id/usb-Klipper_stm32f042x6_0A0036000C43535035373520-if00
 	https://github.com/VoronDesign/Voron-Hardware/tree/master/V0_Display
 	
-<img src="V0_backup/blob/main/Menuconfig_Options.png" width="1000">
-
