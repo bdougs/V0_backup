@@ -5,10 +5,15 @@ After hard reset - update shell command .py https://github.com/th33xitus/kiauh/b
 
 MCU
 	BTT SKR Mini e3-v2
+	
 	STM32F103
+	
 	28KiB bootloader
+	
 	8 MHz clock
+	
 	serial: /dev/serial/by-id/usb-Klipper_stm32f103xe_37FFD5055358353227800843-if00
+	
 	https://docs.vorondesign.com/build/software/miniE3_v20_klipper.html
 
 Toolhead
