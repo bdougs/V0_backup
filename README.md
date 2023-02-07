@@ -17,7 +17,7 @@ Toolhead
 	
 	EBB36 
 	STM32G0B1
-	no bootloader
+	8KiB offset
 	8 MHz clock
 	canbus UUID: 6015553193ee, Application: CanBoot
 	https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.1%20(STM32G0B1) 
