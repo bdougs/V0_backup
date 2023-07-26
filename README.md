@@ -43,9 +43,6 @@ https://github.com/VoronDesign/Voron-Hardware/tree/master/V0_Display
 	internal clock
 	DFU [0483:df11]
 	serial: /dev/serial/by-id/usb-Klipper_stm32f042x6_0A0036000C43535035373520-if00
-	
-After hard reset - recreate gcode_shell_command.py
-https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py
 
 ########### firmware ###########
 
@@ -88,4 +85,7 @@ python3 ~/CanBoot/scripts/flash_can.py -i can0 -f ~/klipper/out/klipper.bin -u 6
 
 sudo service klipper start
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After hard reset - recreate gcode_shell_command.py
+https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py
 	
