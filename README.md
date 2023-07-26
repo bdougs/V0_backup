@@ -9,6 +9,7 @@ https://docs.vorondesign.com/build/software/miniE3_v20_klipper.html
 	STM32F103
 	28KiB bootloader
 	8 MHz clock
+	GPIO pins to set at micro-controller startup” includes ‘!PA14’.
 	serial: /dev/serial/by-id/usb-Klipper_stm32f103xe_37FFD5055358353227800843-if00
  
 
