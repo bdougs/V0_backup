@@ -4,6 +4,7 @@
 
 MCU
 https://docs.vorondesign.com/build/software/miniE3_v20_klipper.html
+https://klipper.discourse.group/t/flashing-klipper-friendly-bootloader-on-btt-skr-mini-e3-v2/10977
 	
 	BTT SKR Mini e3-v2
 	STM32F103
